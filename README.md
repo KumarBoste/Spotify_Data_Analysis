@@ -8,7 +8,7 @@
 
 The objective of this project is to analyze Spotify music data using **Power BI** to uncover meaningful insights about **song performance, artist popularity, and listening trends**. The dashboard is designed to provide a comprehensive, interactive view of Spotify data across three key perspectives: **Overview, Artists, and Songs**. This analysis helps understand content performance, user preferences, and industry trends that can support data-driven decisions in music analytics.
 
----
+
 
 ## 2. Problem Statement (Insight-Based)
 
@@ -22,7 +22,7 @@ With the exponential growth of digital music platforms like Spotify, understandi
 
 This project aims to solve these challenges by transforming raw Spotify data into clear, actionable insights using interactive Power BI visualizations.
 
----
+
 
 ## 3. Dashboard Sections & Data Visualizations
 
@@ -68,7 +68,7 @@ The **Artists** page focuses on artist-level performance and contributions.
 * Artists with fewer releases can still achieve high popularity
 * Consistent releases help maintain long-term visibility on the platform
 
----
+--- 
 
 ### C. Songs Dashboard
 
@@ -87,7 +87,7 @@ The **Songs** page provides detailed insights into individual song performance.
 * Recent releases generally show higher engagement
 * Song duration typically ranges between 2–4 minutes, aligning with listener preferences
 
----
+
 
 ## 4. Conclusion
 
@@ -100,7 +100,7 @@ The **Spotify Data Analysis Power BI Dashboard** successfully transforms complex
 
 This project demonstrates the effective use of **Power BI for music analytics**, showcasing strong data modeling, visualization, and storytelling skills. It highlights how data-driven insights can support strategic decisions for artists, producers, and streaming platforms.
 
----
+
 
 ## 5. Tools & Technologies Used
 
