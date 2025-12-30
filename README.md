@@ -1,2 +1,1 @@
-# Spotify_Data_Analysis
-Power BI
+# Spotify Data Analysis (Power BI)
