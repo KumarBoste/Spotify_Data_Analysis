@@ -1,7 +1,8 @@
-# Spotify Data Analysis - Power BI Project Report 
+![Logo](https://github.com/KumarBoste/Spotify_Data_Analysis/blob/main/Background/Spotify%20Logo.png)
 
-![LOGO](https://github.com/KumarBoste/Spotify_Data_Analysis/blob/main/Background/Spotify%20Overview.webp)
+![Overview](https://github.com/KumarBoste/Spotify_Data_Analysis/blob/main/Background/Spotify%20Overview.webp)
 
+# Spotify Data Analysis - Power BI Project Report
 
 ## 1. Project Objective
 
