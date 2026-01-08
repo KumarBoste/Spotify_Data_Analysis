@@ -109,6 +109,8 @@ This project demonstrates the effective use of **Power BI for music analytics**,
 * **Data Modeling & DAX** – Measures and calculated insights
 
 
+# Steps to Analyse Spotify Dashboard 
+
 ## Step 1: Get Your Spotify Data into Power BI
 Before we can analyze the data, we need to get it. You can either use your own personal listening history (available from your Spotify account settings) or find a pre-compiled dataset of charts like the Global Top 50.
 
